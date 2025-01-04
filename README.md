@@ -32,7 +32,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/crypto-toolkit.git
+   git clone https://github.com/Palachev/crypto-toolkit.git
    cd crypto-toolkit
    ```
 
